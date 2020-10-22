@@ -37,6 +37,19 @@ const birthdays = [
         bmonth: 'October',
         pic:'https://images.unsplash.com/photo-1549068106-b024baf5062d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
     },
+    {
+        id:7,
+        name:'Katie Newmun',
+        bday:22,
+        bmonth: 'October',
+        pic:'https://images.unsplash.com/photo-1549068106-b024baf5062d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+    },{
+        id:8,
+        name:'Aron Shedy',
+        bday:23,
+        bmonth: 'October',
+        pic:'https://images.unsplash.com/photo-1549068106-b024baf5062d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+    },
 ]
 
 export default birthdays
